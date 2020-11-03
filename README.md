@@ -22,7 +22,7 @@
 - 9/9  ~ 9/11 통합테스트<br><br>
 
 
-# :raising_hand: 맡은 파트
+### :raising_hand: 맡은 파트
 
 :yellow_heart: 영실
  - 로그인 로그아웃  회원가입 마이페이지
