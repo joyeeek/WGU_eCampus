@@ -82,25 +82,23 @@
 - 사용자(학생,교수)와 관리자를 구분하여 해당멤버만 이용할 수 있는 서비스를 제공 <br><br>
 
 
-#
-
-:desktop_computer: 화면 일부<br><br>
-메인화면<br>
+## :desktop_computer: 화면 일부<br><br>
+- 메인화면<br>
 
 ![](./images/main.png)
 
 <br>
-수강신청<br>
+- 수강신청<br>
 
 ![](./images/subject.JPG)
 
 <br>
-게시판<br>
+- 게시판<br>
 
 ![](./images/bulletin.JPG)
 
 <br>
-학사일정<br>
+- 학사일정<br>
 
 ![](./images/plan.JPG)
  
