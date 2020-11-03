@@ -84,5 +84,13 @@
 
 #
 
-:desktop_computer: 화면
+:desktop_computer: 화면 일부
+메인화면
+![](./images/layout.JPG)
+수강신청
+![](./images/subject.JPG)
+게시판
+![](./images/bulletin.JPG)
+학사일정
+![](./images/plan.JPG)
  
