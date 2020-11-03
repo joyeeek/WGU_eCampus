@@ -1,6 +1,6 @@
 # WGU e-Campus (대학교 통합 정보 홈페이지)
 
-:ok_person: 팀장 : 김기쁨<br>
+:ok_person: &nbsp; 팀장 : 김기쁨<br>
 :family_woman_woman_girl_girl: 팀원 : 명다정, 이영실, 최하윤, 한지원
 
 #
