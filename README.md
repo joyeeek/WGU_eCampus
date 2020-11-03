@@ -86,7 +86,7 @@
 
 :desktop_computer: 화면 일부
 메인화면
-![](./images/layout.JPG)
+![](./images/main.png)
 수강신청
 ![](./images/subject.JPG)
 게시판
