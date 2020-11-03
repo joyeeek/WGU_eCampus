@@ -1,8 +1,7 @@
 # WGU e-Campus (대학교 통합 정보 홈페이지)
 
-:ok_person: 조장 : 김기쁨
-#
-:family_woman_woman_girl_girl: 조원 : 명다정, 이영실, 최하윤, 한지원
+:ok_person: 팀장 : 김기쁨
+:family_woman_woman_girl_girl: 팀원 : 명다정, 이영실, 최하윤, 한지원
 
 #
 
