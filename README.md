@@ -66,5 +66,5 @@
 
 #
 
-:desktop_computer: 일부 화면
+:desktop_computer: 화면
  
